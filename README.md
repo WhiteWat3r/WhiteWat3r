@@ -1,23 +1,28 @@
-# Привет, я Илья
-Я начинающий фронтенд-разработчик, увлеченный созданием красивых и интерактивных веб-сайтов.
 
-## Стек
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<div align="center"/>
+  <img src="https://sportishka.com/uploads/posts/2022-11/1667481686_49-sportishka-com-p-dzheison-stetkhem-sport-pinterest-52.jpg" width="800" />
 </div>
 
 
-## Обо мне
+  <h1 align="center">WEB??</h1>
 
-- 🌍 Местоположение: Саранск
-- 🌱 В данный момент я изучаю TypeScript в React
+<div align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " dth="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="CSS3" alt="CSS" dth="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="HTML5" alt="HTML" dth="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" title="JavaScript" alt="JavaScript" dth="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Git" **alt="Git" dth="70" height="70"/>&nbsp;
+</div>
 
-## Связь со мной
 
-- 📧 Электронная почта: goirkopf@gmail.com
-- Telegram: [@ilya_3123](https://t.me/ilya_3123)
+
+<br />
+<br />
+
+<div align="end" />
+  <a href="https://t.me/ilya_3123">
+    <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="60" height="60" alt="Telegram"/>
+  </a>
+</div>
+
