@@ -2,7 +2,7 @@
 <div align="center"/>
   <img src="https://sportishka.com/uploads/posts/2022-11/1667481686_49-sportishka-com-p-dzheison-stetkhem-sport-pinterest-52.jpg" width="800" />
 </div>
-
+frontend dev lul
 
   <h1 align="center">WEB??</h1>
 
