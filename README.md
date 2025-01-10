@@ -1,6 +1,6 @@
 
 <div align="center"/>
-  <img src="https://wallbox.ru/wallpapers/main/201442/671b6dfb9a92e65.jpg" width="800" />
+  <img src="https://i.ytimg.com/vi/Ca3nSCWWDAY/maxresdefault.jpg" width="800" />
  
 </div>
   <div align="center"/>
